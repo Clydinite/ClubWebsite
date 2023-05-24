@@ -1,10 +1,10 @@
-<div class="flex py-12">
+<div class="flex pb-12 flex-col md:flex-row">
 	<img
 		src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816557203456/Robot-reconnect.png"
-		class="h-60 rounded-lg"
+		class="md:h-60 md:rounded-lg"
 		alt="Code"
 	/>
-	<p class="mx-12 my-auto text-2xl">
+	<p class="mx-12 my-12 md:my-auto text-2xl">
 		這是我們社團課的產出結果，我們參考了網路上的遊戲「
 		<a href="https://store.steampowered.com/app/1035750/_/" class="underline">文字獄</a>
 		」，自己改編成我們的版本，並加上和我們社團有關的元素，可以在<a
@@ -22,18 +22,18 @@
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816037093456/Game-1.jpeg"
-	class="my-12 h-full rounded-lg"
+	class="my-12 h-full md:rounded-lg"
 	alt="Our game"
 />
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816280358922/Game-2.jpeg"
-	class="my-12 h-full rounded-lg"
+	class="my-12 h-full md:rounded-lg"
 	alt="Our game"
 />
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816754319463/Game-3.jpeg"
-	class="my-12 h-full rounded-lg"
+	class="my-12 h-full md:rounded-lg"
 	alt="Our game"
 />

@@ -1,4 +1,4 @@
-<ul>
+<ul class="p-12 mx-auto">
 	<li>
 		<a href="https://www.instagram.com/codetogether_ashs/" class="underline text-2xl">Instagram</a>
 	</li>

@@ -54,11 +54,11 @@
     
 </script>
 
-<div class="grid lg:grid-cols-2 lg:gap-12">
+<div class="grid md:grid-cols-2 md:gap-12">
 	{#each people as person}
-		<div>
+		<div class="py-4 md:py-0">
 			<img
-				class="rounded-lg aspect-[3/4] object-cover"
+				class="md:rounded-lg aspect-[3/4] object-cover"
 				src={person.photo}
 				alt="random"
 			/>
