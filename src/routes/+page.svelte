@@ -1,6 +1,6 @@
 <img class="md:rounded-lg" src="我們社團.jpg" alt="when we first met" />
-<p class="mx-12 my-12 text-2xl">
-	這裡是高師附中資研社的社網，我們的宗旨是增進附中寫程式的風氣，讓附中學生們能迎接這人工智慧和大數據的時代，在未來發揮所學成就自己，培養跨領域人才，我們將會在這裡介紹我們的各屆幹部和記錄我們的歷史，歡迎大家瀏覽哦。
+<p class="py-12 m-3 mt-0 text-xl">
+	這裡是高師大附中資研社的社網，我們的宗旨是增進附中寫程式的風氣，讓附中學生們能迎接這人工智慧和大數據的時代，在未來發揮所學成就自己，培養跨領域人才，我們將會在這裡介紹我們的各屆幹部和記錄我們的歷史，歡迎大家瀏覽哦。
 </p>
 <div class="flex py-12 flex-col md:flex-row">
 	<img src="/CT-Bot.svg" class="h-60 w-60 mx-auto" alt="CodeTogether Bot" />
