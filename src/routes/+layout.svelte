@@ -82,6 +82,6 @@
 	</div>
 </nav>
 
-<div class="container mx-auto mt-20">
+<div class="container mx-auto max-w-7xl mt-20">
 	<slot />
 </div>
