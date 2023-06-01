@@ -6,7 +6,7 @@
 			alt="Code"
 		/>
 
-		<p class="mx-12 my-12 md:my-auto text-xl">
+		<p class="mx-12 my-12 md:my-auto text-2xl">
 			你好，我是郭彥均 （<a href="https://www.instagram.com/clydinite" class="underline"
 				>@clydinite</a
 			>），就是我做這個網站的！我來介紹一下我是用什麼東西來做這個網站的吧，我是用SvelteKit框架，它有很多超酷的功能，像是你可以把HTML、CSS、JavaScript全部放到同一個檔案裡面，而且可以不用寫很多boilerplate的程式，它都幫你處理好了！還有，我用了Tailwind

@@ -22,18 +22,18 @@
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816037093456/Game-1.jpeg"
-	class="my-12 h-full md:rounded-lg"
+	class="my-12 md:rounded-lg"
 	alt="Our game"
 />
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816280358922/Game-2.jpeg"
-	class="my-12 h-full md:rounded-lg"
+	class="my-12 md:rounded-lg"
 	alt="Our game"
 />
 
 <img
 	src="https://cdn.discordapp.com/attachments/1107308201969459212/1110195816754319463/Game-3.jpeg"
-	class="my-12 h-full md:rounded-lg"
+	class="my-12 md:rounded-lg"
 	alt="Our game"
 />

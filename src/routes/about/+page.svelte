@@ -38,21 +38,21 @@
 		},
 		{
 			photo:
-				'https://cdn.discordapp.com/attachments/1107308201969459212/1107308279245328475/7d6948e354e5f38d.jpg',
-			instagram: 'dannielsu',
-			name: '蘇群展',
-			position: '活動',
-			description:
-				'早安你好我叫蘇群展，我是附中資研社活動。剛好有榮幸能當到資研社社幹鼻祖，深感驕傲。平常的興趣就打球運動打電動，但若是說到程式的部分，我只能是深感不如，有太多東西還需要我去探索學習。歡迎更多的人再來加入我們一起Coding！'
-		},
-		{
-			photo:
 				'https://cdn.discordapp.com/attachments/1107308201969459212/1107308277680832562/d27454ed6f2b5c3a.png',
 			instagram: 'hsiaocheng1106',
 			name: '蕭政佑',
 			position: '總務',
 			description:
 				'大家好，我是蕭政佑，我是擔任總務（雖然沒什麼活動支出），目前會的程式語言比較熟的是JavaScript與Python，這學期有和學生會合作網站。平常興趣有寫程式，也會打電動，在課業或程式上有問題也可以來問我歡迎與我交流，有什麼不懂也可以問，請大家多多指教。'
+		},
+		{
+			photo:
+				'https://cdn.discordapp.com/attachments/1107308201969459212/1107308279245328475/7d6948e354e5f38d.jpg',
+			instagram: 'dannielsu',
+			name: '蘇群展',
+			position: '活動',
+			description:
+				'早安你好我叫蘇群展，我是附中資研社活動。剛好有榮幸能當到資研社社幹鼻祖，深感驕傲。平常的興趣就打球運動打電動，但若是說到程式的部分，我只能是深感不如，有太多東西還需要我去探索學習。歡迎更多的人再來加入我們一起Coding！'
 		},
 		{
 			photo:
