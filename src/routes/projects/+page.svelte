@@ -7,7 +7,7 @@
 	<p class="mx-12 my-12 md:my-auto text-2xl">
 		這是我們社團課的產出結果，我們參考了網路上的遊戲「
 		<a href="https://store.steampowered.com/app/1035750/_/" class="underline">文字獄</a>
-		」，自己改編成我們的版本，並加上和我們社團有關的元素，可以在<a
+		」，自己改編成我們的版本，並加上和我們社團有關的元素，遊戲叫做《電腦，你還記得我嗎？》，可以在<a
 			href="https://github.com/Clydinite/Robot-Reconnect" class="underline">這裡</a
 		>找到我們的程式，也可以在<a href="https://robot-reconnect.vercel.app/" class="underline">這裡</a>玩喔！<br />
 		文字：張凱垣（<a href="https://www.instagram.com/kaiyuanee" class="underline">@kaiyuanee</a
