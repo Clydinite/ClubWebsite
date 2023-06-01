@@ -1,6 +1,6 @@
 <img class="md:rounded-lg" src="我們社團.jpg" alt="when we first met" />
 <p class="mx-12 my-12 text-2xl">
-	這裡是高師大附中資訊研究社的社網，我們的宗旨是增進附中寫程式的風氣，讓附中學生們能迎接這人工智慧和大數據的時代，在未來發揮所學成就自己，培養跨領域人才，我們將會在這裡介紹我們的各屆幹部和記錄我們的歷史，歡迎大家瀏覽哦。
+	這裡是高師大附中資訊研究社的社網，我們在這裡介紹我們幹部、還有我們做的專案，以及記錄我們的歷史，歡迎大家瀏覽！我們社團教的是網站設計，希望可以讓社員免於擔心寫題目會不會<a href="https://zerojudge.tw/"><span class="text-[#00BB00] font-bold">AC</span></a>，放心，HTML和CSS很友善的，它們根本就不會報錯，瀏覽器看不懂就會直接跳過:D。
 </p>
 <div class="flex py-12 flex-col md:flex-row">
 	<img src="/CT-Bot.svg" class="h-60 w-60 mx-auto" alt="CodeTogether bot" />
