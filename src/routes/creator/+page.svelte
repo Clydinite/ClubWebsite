@@ -1,7 +1,7 @@
 <div class="flex flex-col md:flex-row mb-24">
 	<div class="md:w-5/6">
 		<img
-			src="https://cdn.discordapp.com/attachments/1107308201969459212/1113504280691888178/image.png"
+			src="Program.png"
 			class="mx-auto w-full md:w-5/6 object-cover md:rounded-lg m-12"
 			alt="Code"
 		/>
